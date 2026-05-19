@@ -28,3 +28,6 @@ build/
 
 # Misc
 *.tsbuildinfo
+
+# explore
+explore.js
