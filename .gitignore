@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Opencode files
+.opencode/
+.playwright-mcp/
+
+# Test results
+test-results/
+
+# Data folder (if used for temporary data)
+data/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# Misc
+*.tsbuildinfo

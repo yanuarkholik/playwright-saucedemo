@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".", // Root direktori
+    // "ignoreDeprecations": "6.0",
+    "paths": {
+      "@components/*": [
+        "pages/components/*"
+      ],
+      "@data/*": [
+        "data/*"
+      ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
+      "@media/*": [
+        "media/*"
+      ],
+      "@pages/*": [
+        "src/pages/*"
+      ]
+    }
+  }
+}
